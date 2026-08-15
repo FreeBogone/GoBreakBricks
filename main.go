@@ -8,8 +8,6 @@ import (
 const (
 	screenWidth  = 800
 	screenHeight = 450
-	paddleWidth  = 20
-	paddleHeight = 120
 )
 
 // declare global variables
